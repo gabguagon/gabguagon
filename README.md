@@ -46,19 +46,5 @@
 
 <h3>📈 GitHub Stats</h3>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=crontreras1&show_icons=true&count_private=true&hide_border=true" style="width: 100%;" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crontreras1&hide_border=true&layout=compact" style="width: 100%;" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 ---
-
-<div align="center">
-  Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a>
-</div>
