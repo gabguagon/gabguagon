@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Gabriela</h1>
 
 <p align="center">
-  👩‍💻 Industrial Engineer | Data Analyst
-</p>
+    👩‍💻<a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/jasonssdev)"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Industrial+Engineer+|+Data+Analyst+|+Business+Intelligence"/></a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriela-gonza-90293746/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+<a href="https://www.instagram.com/gabguagon/" target=”_blank”><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/gabguagon" target=”_blank”><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 ---
 
@@ -49,7 +49,4 @@
   <img height=250 align="center" src="https://streak-stats.demolab.com/?user=gabguagon&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=400&card_height=200&hide_border=true&icon_color=9966ff&background=0D1117&stroke=9966ff&ring=9966ff&currStreakLabel=9966ff&fire=9966ff"/>
 </a>
 
-## Social Media
 
-<a href="https://www.instagram.com/gabguagon/" target=”_blank”><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/gabguagon" target=”_blank”><img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
