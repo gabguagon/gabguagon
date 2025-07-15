@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-101010?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img style="height: 30px;" src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
