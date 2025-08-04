@@ -8,13 +8,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriela-gonza-90293746/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://www.instagram.com/gabguagon/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://x.com/gabguagon" target="_blank">
     <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
 </div>
 
 ---
